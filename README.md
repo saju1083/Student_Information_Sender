@@ -3,10 +3,12 @@
 ## Screenshots
 
 ### Scource Code Server.java
-![image alt](https://github.com/saju1083/Student_Result_Management_System-/blob/86000200f4a3def7491e6c60bc1d9bc27a6841f2/Jdbc%20(1).png)
+![image alt](https://github.com/saju1083/Student_Information_Sender/blob/bd219886f1a621d82a69d691bd7e0ad957a4d2c6/Server(1).jpeg)
+### Output Server.java
+![image alt](https://github.com/saju1083/Student_Information_Sender/blob/bd219886f1a621d82a69d691bd7e0ad957a4d2c6/Server.jpeg)
 
-### Output
-![image alt](https://github.com/saju1083/Student_Result_Management_System-/blob/00c2a7231b0d17251c4b2bb51c9492c618b05e15/Jdbc%20(2).png)
+### Source Code Client.java
+![image alt](https://github.com/saju1083/Student_Information_Sender/blob/bd219886f1a621d82a69d691bd7e0ad957a4d2c6/Client(1).jpeg)
+### Output Client.java
+![image alt](https://github.com/saju1083/Student_Information_Sender/blob/bd219886f1a621d82a69d691bd7e0ad957a4d2c6/Client.jpeg)
 
-### MySQL Database Table
-![image alt](https://github.com/saju1083/Student_Result_Management_System-/blob/00c2a7231b0d17251c4b2bb51c9492c618b05e15/Jdbc%20(3).png)
